@@ -3,7 +3,8 @@ pdf en html en utilisant node.js avec api PDF.co
 Comment convertir un PDF en HTML à partir d'un fichier téléchargé (nœud pour l'API PDF vers HTML en JavaScript à l'aide de l'API Web PDF.co API Web PDF.co : l'API Rest qui fournit un ensemble de fonctions d'extraction de données, des outils pour la manipulation, le fractionnement et la fusion de documents pdf Comprend l'OCR intégré, la reconnaissance d'images, peut générer et lire des codes-barres à partir d'images, de scans et de pdf.
 
 # pour exécuter le projet
- 1-npm run request
+ 
+1-npm install request
 
 2- node app.js
 
