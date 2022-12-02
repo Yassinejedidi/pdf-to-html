@@ -9,7 +9,7 @@ Comment convertir un PDF en HTML à partir d'un fichier téléchargé (nœud pou
 
 3-les fichiers du projet demander dans le defi  seront exécutés statiquement => une page result.html sera générée après l'exécution du la commande node app.js
 
-# Noter !! : le sample.pdf du test qui sera exécuté en lançant la commande node app.js est celui qui a la capacité la plus élevée lien de pdf : 
+# Note !! : le sample.pdf du test qui sera exécuté en lançant la commande node app.js est celui qui a la capacité la plus élevée lien de pdf : 
 
 https://www.archipel-thau.com/medias/images/prestataires/Archipel-Magazine-Archipel-de-Thau-Destination-Mediterranee.pdf
 
