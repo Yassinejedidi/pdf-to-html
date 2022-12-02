@@ -8,10 +8,10 @@ var request = require("request");
 
 // The authentication key (API Key).
 // Get your own by registering at https://app.pdf.co
-const API_KEY = "skanlau13@gmail.com_948a7ddeeaf9e03d1761eb331598dca4958be77c87c7a4118c9822e5c35cdc7e55f1ccd1";
+const API_KEY = "gueddari.yasmine12@gmail.com_d2348ed7f076aec960c1e16097201c14f53642e598be4f228994991af37da814cf72242c";
 
 // Source PDF file
-const SourceFile = "./novembre.pdf";
+const SourceFile = "./sample.pdf";
 // Comma-separated list of page indices (or ranges) to process. Leave empty for all pages. Example: '0,2-5,7-'.
 const Pages = "";
 // PDF document password. Leave empty for unprotected documents.
