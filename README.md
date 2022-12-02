@@ -7,7 +7,7 @@ How to convert PDF to HTML from uploaded file (node for PDF to HTML API in JavaS
 
 2- node app.js
 
-3-les fichiers du projet seront exécutés statiquement => une page result.html sera générée après l'exécution du la commande node app.js
+3-les fichiers du projet demander dans le defi  seront exécutés statiquement => une page result.html sera générée après l'exécution du la commande node app.js
 
 
 
